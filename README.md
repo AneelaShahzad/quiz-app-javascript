@@ -77,11 +77,11 @@ Aneela Shahzad
 
 ## 📬 Connect with Me
 
-Linkedin : https://www.linkedin.com/in/aneela-shahzad-6b7a023b0
-gmail : aneela.techworks@gmail.com
-Github : https://github.com/AneelaShahzad
+- Linkedin : https://www.linkedin.com/in/aneela-shahzad-6b7a023b0
+- gmail : aneela.techworks@gmail.com
+- Github : https://github.com/AneelaShahzad
 
-
+```
 
 ## License
 This project is licensed under the MIT License - see the license for the details
