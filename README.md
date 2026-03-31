@@ -67,13 +67,13 @@ This project was created as part of my frontend learning journey to practice cor
 2. Open the project folder
 3. Run index.html in your browser
 
-```
+
 
 ## 👩‍💻 Author
 
 Aneela Shahzad
 
-```
+
 
 ## 📬 Connect with Me
 
@@ -81,7 +81,7 @@ Linkedin : https://www.linkedin.com/in/aneela-shahzad-6b7a023b0
 gmail : aneela.techworks@gmail.com
 Github : https://github.com/AneelaShahzad
 
-```
+
 
 ## License
 This project is licensed under the MIT License - see the license for the details
