@@ -61,19 +61,19 @@ This project was created as part of my frontend learning journey to practice cor
 ## 💻 How to Run Locally
 
 1. Clone the repository:
-   ```bash
+   
    git clone https://github.com/your-username/quiz-app.git
-   ```
+   
 2. Open the project folder
 3. Run index.html in your browser
 
-
+```
 
 ## 👩‍💻 Author
 
 Aneela Shahzad
 
-
+```
 
 ## 📬 Connect with Me
 
